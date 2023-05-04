@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Reduce Stress",
+        "thumbnail":"mock/topics/thumb1.svg",
+        "color": "0XFF8E97FD",
+        "titleColor": "0XFFFFECCC"
+    },
+    {
+        "title": "Improve Performanee",
+        "thumbnail":"mock/topics/thumb2.svg",
+        "color": "0XFFFA6E5A",
+        "titleColor": "0XFFFEF9F3"
+    },
+    {
+        "title": "Increase Happiness",
+        "thumbnail":"mock/topics/thumb3.svg",
+        "color": "0XFFFEB18F",
+        "titleColor": "0XFF3F414E"
+    },
+    {
+        "title": "Reduce Anxiety",
+        "thumbnail":"mock/topics/thumb4.svg",
+        "color": "0XFFFFCF86",
+        "titleColor": "0XFF3F414E"
+    },
+    {
+        "title": "Personal Growth",
+        "thumbnail":"mock/topics/thumb5.svg",
+        "color": "0XFF6CB28E",
+        "titleColor": "0XFFFFECCC"
+    },
+    {
+        "title": "Better Sleep",
+        "thumbnail":"mock/topics/thumb6.svg",
+        "color": "0XFF3F414E",
+        "titleColor": "0XFFEBEAEC"
+    },
+    {
+        "title": "Learning true",
+        "thumbnail":"mock/topics/thumb7.svg",
+        "color": "0XFFD9A5B5",
+        "titleColor": "0XFFFFECCC"
+    }
+]
